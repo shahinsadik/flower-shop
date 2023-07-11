@@ -174,10 +174,12 @@ span {
     text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
-}
+    }
 
 .product-list-image {
     width: 200px;
+    box-shadow: 10px 10px 10px 0px gray;
+    border-radius: 5px;
 
 }
 
