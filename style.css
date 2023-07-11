@@ -6,6 +6,8 @@
     font-family: 'Roboto Condensed', sans-serif;
 }
 
+/* header section */
+
 .header-container {
     display: flex;
     gap: 50px;
@@ -38,6 +40,35 @@
     border-radius: 8px;
     background: #E55473;
 }
+/* find /search */
+.find-container{
+    display: flex;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 50px 150px 0px 150px;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    padding: 20px;
+
+}
+.find-btn{
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+    border-radius: 8px;
+    background: #E55473;
+}
+.flower-name{
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+    border-radius: 8px;
+    background: #E55473;
+}
+/* find/search end */
 
 .main-title {
     text-align: center;
