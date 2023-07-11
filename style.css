@@ -224,11 +224,13 @@ span {
     margin: 10px;
 }
 
+/* footer  */
+
 .footer-container {
     gap: 50px;
     color: white;
     background-color: black;
-    margin: 10px 150px 0px 150px;
+    padding: 10px 150px 0px 150px;
     align-items: center;
     justify-content: space-between;
     text-align: center;
